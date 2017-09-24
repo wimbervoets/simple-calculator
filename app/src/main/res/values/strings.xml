@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">simple-calculator</string>
+    <string name="label_result">Result: -</string>
+    <string name="label_calculator">calculator</string>
+</resources>
