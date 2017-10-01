@@ -1,0 +1,7 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="be.jatra.simplecalculator">
+
+    <application>
+        <activity android:name=".CalculatorActivity" />
+    </application>
+</manifest>
