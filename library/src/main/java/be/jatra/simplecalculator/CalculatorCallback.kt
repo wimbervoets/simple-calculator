@@ -1,6 +1,6 @@
 package be.jatra.simplecalculator
 
-interface Calculator {
+interface CalculatorCallback {
     fun setValue(value: String)
 
     fun setValueDouble(d: Double)
