@@ -1,4 +1,4 @@
-package be.jatra.simplecalculator
+package be.jatra.simplecalculator.app
 
 import android.app.Application
 
