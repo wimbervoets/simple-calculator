@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Rekenmachine</string>
+    <string name="menu_ok">OK</string>
+    <string name="copied_to_clipboard">Gekopieerd naar het klembord</string>
+
+
+</resources>
