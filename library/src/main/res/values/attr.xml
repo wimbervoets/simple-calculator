@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="panel1" format="reference|color" />
+    <attr name="panel2" format="reference|color" />
+
+    <attr name="backspace" format="reference" />
+
+
+    <declare-styleable name="CalculatorEditText">
+        <attr name="minTextSize" format="dimension" />
+        <attr name="maxTextSize" format="dimension" />
+        <attr name="stepTextSize" format="dimension" />
+    </declare-styleable>
+</resources>
