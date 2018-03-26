@@ -1,0 +1,142 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="menu_ok">OK</string>
+    <string name="menu_cancel">Cancel</string>
+    <string name="copied_to_clipboard">Value copied to clipboard</string>
+
+
+
+    <!-- OLD -->
+
+    <!-- Constant for Euler's number (i.e. "2.7182…"). -->
+    <string name="const_e">e</string>
+    <!-- Constant for pi (i.e. "3.1415…"). -->
+    <string name="const_pi">π</string>
+
+    <!-- Left parenthesis (e.g. "log(", "2 × (3 - 1)". -->
+    <string name="lparen">(</string>
+    <!-- Right parenthesis (e.g. "log(2)", "(3 - 1) × 2". -->
+    <string name="rparen">)</string>
+
+    <!-- Addition operator (e.g. "4 + 2"). -->
+    <string name="op_add">+</string>
+    <!-- Divide operator (e.g. "4 ÷ 2"). -->
+    <string name="op_div">÷</string>
+    <!-- Factorial operator (e.g. "4!"). -->
+    <string name="op_perc">%</string>
+    <!-- Multiply operator (e.g. "4 × 2"). -->
+    <string name="op_mul">×</string>
+    <!-- Power operator (e.g. "4 ^ 2"). -->
+    <string name="op_pow">^</string>
+    <!-- Square root operator (e.g. "√4"). -->
+    <string name="op_sqrt">√</string>
+    <!-- Subtraction operator (e.g. "4 - 2"). -->
+    <string name="op_sub">−</string>
+
+    <!-- Equals operator (e.g. "4 + 2 = ?"). -->
+    <string name="eq">=</string>
+    <!-- Result displayed when expression evaluates to infinity. -->
+    <string name="inf">∞</string>
+    <string name="select">select</string>
+
+
+
+
+
+
+
+
+    <!-- Error displayed when expression evaluates to NaN. -->
+    <string name="error_nan">Not a number</string>
+    <!-- Error displayed when expression contains a syntax error. -->
+    <string name="error_syntax">Error</string>
+
+    <!-- Abbrev. name of cosine function (e.g. "cos(π)". -->
+    <string name="fun_cos">cos</string>
+    <!-- Natural logarithm function (e.g. "ln(2)"). -->
+    <string name="fun_ln">ln</string>
+    <!-- Logarithm function (e.g. "log(10)"). -->
+    <string name="fun_log">log</string>
+    <!-- Abbrev. name of sine function (e.g. "sin(π)". -->
+    <string name="fun_sin">sin</string>
+    <!-- Abbrev. name of tangent function (e.g. "tan(π)". -->
+    <string name="fun_tan">tan</string>
+
+    <!-- Clear operation to clear the currently entered expression. -->
+    <string name="clr">clr</string>
+    <!-- Delete operation to remove last entered token. -->
+    <string name="del">del</string>
+
+
+
+
+
+    <string name="dec_point">,</string>
+    <string name="digit_0">0</string>
+    <string name="digit_1">1</string>
+    <string name="digit_2">2</string>
+    <string name="digit_3">3</string>
+    <string name="digit_4">4</string>
+    <string name="digit_5">5</string>
+    <string name="digit_6">6</string>
+    <string name="digit_7">7</string>
+    <string name="digit_8">8</string>
+    <string name="digit_9">9</string>
+
+
+
+
+
+
+
+
+
+
+
+    <!-- Content description for 'e' button. -->
+    <string name="desc_const_e">Euler\'s number</string>
+    <!-- Content description for 'π' button. -->
+    <string name="desc_const_pi">pi</string>
+
+    <!-- Content description for '.' button. -->
+    <string name="desc_dec_point">point</string>
+
+    <!-- Content description for '(' button. -->
+    <string name="desc_lparen">left parenthesis</string>
+    <!-- Content description for ')' button. -->
+    <string name="desc_rparen">right parenthesis</string>
+
+    <!-- Content description for 'cos' button. -->
+    <string name="desc_fun_cos">cosine</string>
+    <!-- Content description for 'ln' button. -->
+    <string name="desc_fun_ln">natural logarithm</string>
+    <!-- Content description for 'log' button. -->
+    <string name="desc_fun_log">logarithm</string>
+    <!-- Content description for 'sin' button. -->
+    <string name="desc_fun_sin">sine</string>
+    <!-- Content description for 'tan' button. -->
+    <string name="desc_fun_tan">tangent</string>
+
+    <!-- Content description for '+' button. -->
+    <string name="desc_op_add">plus</string>
+    <!-- Content description for '÷' button. -->
+    <string name="desc_op_div">divide</string>
+    <!-- Content description for '!' button. -->
+    <string name="desc_op_perc">percentage</string>
+    <!-- Content description for '×' button. -->
+    <string name="desc_op_mul">times</string>
+    <!-- Content description for '^' button. -->
+    <string name="desc_op_pow">power</string>
+    <!-- Content description for '√' button. -->
+    <string name="desc_op_sqrt">square root</string>
+    <!-- Content description for '-' button. -->
+    <string name="desc_op_sub">minus</string>
+
+    <!-- Content description for "clr" button. -->
+    <string name="desc_clr">clear</string>
+    <!-- Content description for "del" button. -->
+    <string name="desc_del">delete</string>
+    <!-- Content description for '=' button. -->
+    <string name="desc_eq">equals</string>
+    <string name="desc_select">select</string>
+</resources>
