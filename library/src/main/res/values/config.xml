@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Whether to use localized digits in the numeric pad. -->
+    <bool name="use_localized_digits">true</bool>
+</resources>
